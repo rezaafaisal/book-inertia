@@ -7,7 +7,7 @@
     @vite('resources/css/app.css')
     @inertiaHead
   </head>
-  <body>
+  <body style="background: #f1f1f1">
     @inertia
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
     @vite('resources/js/app.js')
